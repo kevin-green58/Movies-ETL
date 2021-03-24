@@ -1,7 +1,7 @@
 # Movies-ETL
 
 ## Purpose 
-Use the ETL process to create data pipelines.
+Use the ETL process to create data pipelines using csv and json files through pgAdmin
 
 ### Resourses
  - Data Source:
